@@ -5,11 +5,15 @@ Create basic GSE macros using wowhead and GSE's raw editor feature within Notepa
  you might want to create your own macro. This might be interesting for you.
 
  You fill out a JSON file containing:
+ 
   buffs_outfight -> Cast these buffs when you are outfight, eg DuDu: Mark of the wild
+  
   opener         -> Cast these spells before the rota
+  
   rota           -> Rotation, is repeated 2 times
+  
   on_cooldown    -> Always use when ready
-
+  
  and run the python script inside Notepad++.
 
  It will create a file. The contents of this file can be used for the raw editor.
