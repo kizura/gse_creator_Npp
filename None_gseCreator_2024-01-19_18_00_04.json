@@ -1,0 +1,154 @@
+{
+    ["Variables"] = {
+        ["KeyPress"] = {
+            [1] = "/cast [nochanneling] Call of the wild"
+        }
+    },
+    ["Actions"] = {
+        [1] = {
+                [1] = "/cast [nochanneling] Hunter's Mark",
+                ["Type"] = "Action"
+        },
+        [2] = {
+                [1] = "/cast [nochanneling] Wailing Arrow",
+                ["Type"] = "Action"
+        },
+        [3] = {
+                [1] = "/cast [nochanneling] Barbed Shot",
+                ["Type"] = "Action"
+        },
+        [4] = {
+                [1] = "/cast [nochanneling] Barbed Shot",
+                ["Type"] = "Action"
+        },
+        [5] = {
+                [1] = "/cast [nochanneling] Bloodshed",
+                ["Type"] = "Action"
+        },
+        [6] = {
+                [1] = "/cast [nochanneling] Bestial Wrath",
+                ["Type"] = "Action"
+        },
+        [7] = {
+                [1] = "/cast [nochanneling] Barbed Shot",
+                ["Type"] = "Action"
+        },
+        [8] = {
+                [1] = "/cast [nochanneling] Death Chakram",
+                ["Type"] = "Action"
+        },
+        [9] = {
+                [1] = "/cast [nochanneling] Call of the Wild",
+                ["Type"] = "Action"
+        },
+        [10] = {
+                [1] = "/cast [nochanneling] Use your racial ability.",
+                ["Type"] = "Action"
+        },
+        [11] = {
+                [1] = "/cast [nochanneling] Kill Command",
+                ["Type"] = "Action"
+        },
+
+        [12] = {
+            [1] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Barbed Shot",
+                    ["Type"] = "Action"
+            },
+            [2] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Kill Command",
+                    ["Type"] = "Action"
+            },
+            [3] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Call of the Wild",
+                    ["Type"] = "Action"
+            },
+            [4] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Bloodshed",
+                    ["Type"] = "Action"
+            },
+            [5] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Stampede",
+                    ["Type"] = "Action"
+            },
+            [6] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Bestial Wrath",
+                    ["Type"] = "Action"
+            },
+            [7] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Death Chakram",
+                    ["Type"] = "Action"
+            },
+            [8] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Kill Command",
+                    ["Type"] = "Action"
+            },
+            [9] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] A Murder of Crows",
+                    ["Type"] = "Action"
+            },
+            [10] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Steel Trap",
+                    ["Type"] = "Action"
+            },
+            [11] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Explosive Shot",
+                    ["Type"] = "Action"
+            },
+            [12] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Barbed Shot",
+                    ["Type"] = "Action"
+            },
+            [13] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Dire Beast",
+                    ["Type"] = "Action"
+            },
+            [14] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Serpent Sting",
+                    ["Type"] = "Action"
+            },
+            [15] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Kill Shot",
+                    ["Type"] = "Action"
+            },
+            [16] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Light's Judgment",
+                    ["Type"] = "Action"
+            },
+            [17] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Cobra Shot",
+                    ["Type"] = "Action"
+            },
+            [18] = {
+                    [1] = "~~KeyPress~~",
+                    [2] = "/cast [nochanneling] Wailing Arrow",
+                    ["Type"] = "Action"
+            },
+            ["Repeat"] = 2,
+            ["Type"] = "Loop",
+            ["StepFunction"] = "Sequential"
+        },
+
+    },
+    ["InbuiltVariables"] = {
+        ["Trinket1"] = true,
+        ["Trinket2"] = true
+    }
+}

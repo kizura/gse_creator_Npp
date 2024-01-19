@@ -1,0 +1,49 @@
+{
+    "comm01": "# 2024-01-19: https://www.wowhead.com/guide/classes/hunter/beast-mastery/rotation-cooldowns-pve-dps",
+    "comm02": "# Single Target",
+    "comm02": "#",
+    "comm02": "# I just copied *all* from wowhead.com and put it into this json structure.",
+    "comm02": "#",
+    "comm02": "# buffs_outfight -> Cast these buffs when you are outfight, eg DuDu: Mark of the wild",
+    "comm02": "# opener         -> Cast these spells before the rota",
+    "comm02": "# rota           -> Rotation, is repeated 2 times",
+    "comm02": "# on_cooldown    -> Always use when ready",
+    "buffs_outfight": [""],
+    "opener": [
+        "Hunter's Mark",
+        "Wailing Arrow",
+        "Barbed Shot",
+        "Barbed Shot",
+        "Bloodshed",
+        "Bestial Wrath",
+        "Barbed Shot",
+        "Death Chakram",
+        "Call of the Wild",
+        "Use your racial ability.",
+        "Kill Command"
+    ],
+    "rota": [
+        "Barbed Shot",
+        "Kill Command",
+        "Call of the Wild",
+        "Bloodshed",
+        "Stampede",
+        "Bestial Wrath",
+        "Death Chakram",
+        "Kill Command",
+        "A Murder of Crows",
+        "Steel Trap",
+        "Explosive Shot",
+        "Barbed Shot",
+        "Dire Beast",
+        "Serpent Sting",
+        "Kill Shot",
+        "Light's Judgment",
+        "Cobra Shot",
+        "Wailing Arrow"
+    ],
+    "on_cooldown": [
+        "Call of the wild"
+    ]
+}
+
