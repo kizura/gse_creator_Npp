@@ -1,0 +1,157 @@
+# Ersetzt das erste Wort durch das zweite -- Trennungszeichen ist ","
+#
+#
+#
+Regrowth, Nachwachsen
+Primal Wrath, Urzorn
+Brutal Slash, Brutales Schlitzen
+Shred, Schreddern
+Ferocious Bite, Wilder Biss
+Rip, Zerfetzen
+Battle Shout, Schlachtruf
+Defensive Stance, Verteidigungshaltung
+Thunder Clap, Donnerknall
+Pummel, Zuschlagen
+Ravager, Verheerer
+Shockwave, Schockwelle
+Shield Slam, Schildschlag
+Cat Form, Katzengestalt
+Rake, Krallenhieb
+Prowl, Schleichen
+Wild Growth, Wildwuchs
+Stellar Flare, Sterneneruption
+Warrior of Elune, Krieger der Elune
+Force of Nature, Naturgewalt
+New Moon, Neumond
+Convoke the Spirits, Konvokation der Geister
+Moonfire, Mondfeuer
+19434, Gezielter Schuss
+Salvo, Salve
+257044, Schnellfeuer
+Moonkin Form, Mondkingestalt
+Mark of the Wild, Mal der Wildnis
+Rebirth, Wiedergeburt
+Efflorescence, Erblühen
+Bear Form, Bärengestalt
+Starsurge,Sternensog
+Barkskin, Baumrinde
+Celestial Alignment, Himmlische Ausrichtung
+Renewal, Erneuerung
+Nature's Vigil, Wache der Natur
+375891, Todeschakram
+260243, Salve
+392060, Klagender Pfeil
+391528, Konvokation der Geister
+78674, Sternensog
+5176, Zorn
+Bloodshed, Blutvergießen
+Dire Beast, Alphatier
+212431, Explosivschuss
+Rapid Fire, Schnellfeuer
+Aimed Shot, Gezielter Schuss
+Wild Mushroom, Wildpilz
+Tranquilizing Shot, Einlullender Schuss
+Kill Shot, Tödlicher Schuss
+Kill Command, Tötungsbefehl
+Mend Pet, Tier heilen
+Call Pet 1, Begleiter 1 rufen
+Call Pet 2, Begleiter 2 rufen
+Concussive Shot, Erschütternder Schuss
+#Pala
+Judgment, Richturteil
+Avenging Wrath, Zornige Vergeltung
+Final Reckoning, Letzte Abrechnung
+Flash of Light, Lichtblitz
+# Schamanae
+Healing Stream Totem, Totem des heilenden Flusses
+# Priester
+Desperate Prayer, Verzweifeltes Gebet
+Shadowfiend, Schattengeist
+Shadow Mend, Schattenheilung
+Voidform, Leerengestalt
+# Todesritter
+Raise Dead, Totenerweckung
+Anti-Magic Shell, Antimagische Hülle
+Icebound Fortitude, Eisige Gegenwehr
+# Hexer
+Unending Resolve, Erbarmungslose Entschlossenheit
+Curse of Weakness, Fluch der Schwäche
+Summon Felguard, Teufelswache beschwören
+Demonbolt, Dämonenblitz
+Summon Infernal, Höllenbestie beschwören
+Summon Darkglare, Dunkelblick beschwören
+Agony, Agonie
+Siphon Life, Lebensentzug
+Adrenaline Rush, Adrenalinrausch
+Tricks of the Trade, Schurkenhandel
+Stealth, Verstohlenheit
+Kidney Shot, Nierenhieb
+Misdirection, Irreführung
+Aspect of the Wild, Aspekt der Wildnis
+Binding Shot, Bindender Schuss
+Death Coil, Todesmantel
+Scourge Strike, Geißelstoß
+Festering Strike, Schwärender Stoß
+Sudden Doom, Hereinbrechende Verdammnis
+Unholy Blight, Unheilige Verseuchung
+Army of the Dead, Armee der Toten
+Outbreak, Ausbruch
+Summon Gargoyle, Gargoyle beschwören
+Dark Transformation, Dunkle Transformation
+Apocalypse, Apokalypse
+Empower Rune Weapon, Runenwaffe verstärken
+Unholy Assault, Unheiliger Angriff
+Soul Reaper, Seelenernter
+Excecution Sentence, Todesurteil
+Divine Protection, Göttlicher Schutz
+Templar Slash, Templerschlitzer
+Blade of Justice, Klinge der Gerechtigkeit
+Divine Toll, Göttlicher Glockenschlag
+Elemental Potion of Ultimate Power, Elementartrank der ultimativen Macht
+Word of Glory, Wort der Herrlichkeit
+#
+# 1:1
+Todesurteil, Todesurteil
+Schild der Vergeltung, Schild der Vergeltung
+Consecration, Weihe
+Barrier of Faith, Barriere des Glaubens
+Blessing of Spring, Segen des Frühlings
+Blessing of Winter, Segen des Winters
+Blessing of Summer, Segen des Sommers
+Hand of Divinity, Hand der Göttlichkeit
+Tyr's Deliverance, Tyrs Errettung
+Holy Light, Heiliges Licht
+Hammer of Justice, Hammer der Gerechtigkeit
+Beacon of Light, Flamme des Glaubens
+Pillar of Frost, Säule des Frosts
+Nether Portal, Netherportal
+Demonic Strength, Dämonische Stärke
+Summon Vilefiend, Finsteres Scheusal beschwören
+Grimoire: Felguard, Grimoire: Teufelswache
+Guillotine, Guillotine
+Power Siphon, Kraftentzug
+Call Dreadstalkers, Schreckenspirscher rufen
+Shadow Bolt, Schattenblitz
+Hand of Gul'dan, Hand von Gul'dan
+Summon Demonic Tyrant, Dämonischen Tyrannen beschwören
+Soul Strike, Seelenstoß
+Doom, Verdammnis
+Call Dreadstalkers, Schreckenspirscher rufen
+Hand of Gul'dan. Hand von Gul'dan
+Storm Elemental, Sturmelementar
+Icefury, Eisfuror 
+Flame Shock, Flammenschock
+Frost Shock, Frostschock
+Lightning Bolt, Blitzschlag
+Stormkeeper, Sturmhüter
+Lava Burst, Lavaeruption
+Elemental Blast, Elementarschlag
+Bloodthirst, Blutdurst
+Whirlwind, Wirbelwind
+Recklessness, Tollkühnheit
+Spear of Bastion, Speer der Bastion
+Rampage, Toben
+Execute, Hinrichten
+Onslaught, Ansturm
+Raging Blow, Wütender Schlag
+Enraged Regeneration, Wütende Regeneration
